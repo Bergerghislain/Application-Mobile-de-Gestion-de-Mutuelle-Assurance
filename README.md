@@ -16,8 +16,8 @@ Cette application mobile facilite la gestion d'une mutuelle ou d'une assurance e
 
 * **Écran de connexion** : Permet aux utilisateurs de se connecter à l'application en utilisant leurs identifiants.
 
-    ![Écran de connexion 1](screenshots/Image 1 from user-guide.pdf)
-    ![Écran de connexion 2](screenshots/Image 2 from user-guide.pdf)
+    ![Écran de connexion 1](Screenshots/Capture d’écran du 2024-09-26 06-22-16.png)
+
 
 * **Écran d'accueil** : Affiche un aperçu des fonctionnalités principales, y compris la trésorerie, le fonds social et les événements de la mutuelle.
 
