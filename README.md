@@ -30,7 +30,7 @@ Cette application mobile facilite la gestion d'une mutuelle ou d'une assurance e
 * **Gestion des membres** : Permet de visualiser la liste des membres, d'ajouter de nouveaux membres et de consulter/modifier les détails d'un membre existant.
 
     ![Gestion des membres 1](Screenshots/Capture d’écran du 2024-09-26 06-24-31.png)
-    ![Gestion des membres 2](screenshots/Image 6 from user-guide.pdf)
+    ![Gestion des membres 2](Screenshots/Capture d’écran du 2024-09-26 06-24-59.png)
     ![Gestion des membres 3](screenshots/Image 7 from user-guide.pdf)
 
 * **Gestion des administrateurs** : Similaire à la gestion des membres, mais spécifique aux administrateurs de la plateforme.
