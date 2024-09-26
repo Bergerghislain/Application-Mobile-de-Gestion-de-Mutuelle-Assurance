@@ -31,7 +31,7 @@ Cette application mobile facilite la gestion d'une mutuelle ou d'une assurance e
 
     ![Gestion des membres 1](Screenshots/Capture d’écran du 2024-09-26 06-24-31.png)
     ![Gestion des membres 2](Screenshots/Capture d’écran du 2024-09-26 06-24-59.png)
-    ![Gestion des membres 3](screenshots/Image 7 from user-guide.pdf)
+    ![Gestion des membres 3](Screenshots/Capture d’écran du 2024-09-26 06-25-14.png)
 
 * **Gestion des administrateurs** : Similaire à la gestion des membres, mais spécifique aux administrateurs de la plateforme.
 
