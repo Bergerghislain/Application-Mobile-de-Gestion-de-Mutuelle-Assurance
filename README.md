@@ -25,7 +25,7 @@ Cette application mobile facilite la gestion d'une mutuelle ou d'une assurance e
 
 * **Menu principal** : Donne accès aux différentes sections de l'application, telles que les membres, les administrateurs, les types d'aides, etc.
 
-    ![Menu principal](screenshots/Image 4 from user-guide.pdf)
+    ![Menu principal](Screenshots/Capture d’écran du 2024-09-26 06-24-18.png)
 
 * **Gestion des membres** : Permet de visualiser la liste des membres, d'ajouter de nouveaux membres et de consulter/modifier les détails d'un membre existant.
 
