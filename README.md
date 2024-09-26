@@ -40,20 +40,15 @@ Cette application mobile facilite la gestion d'une mutuelle ou d'une assurance e
 
 * **Gestion des types d'aides** : Permet de visualiser, ajouter, modifier et supprimer les différents types d'aides financières proposées par la mutuelle.
 
-    ![Gestion des types d'aides 1](screenshots/Image 10 from user-guide.pdf)
-    ![Gestion des types d'aides 2](screenshots/Image 11 from user-guide.pdf)
-    ![Gestion des types d'aides 3](screenshots/Image 12 from user-guide.pdf)
+    ![Gestion des types d'aides 1](Screenshots/Capture d’écran du 2024-09-26 06-28-13.png)
+   
 
 * **Configurations** : Permet de modifier certains paramètres de l'application, tels que le montant minimum d'inscription, le montant maximum des cotisations, etc.
-
-    ![Configurations 1](screenshots/Image 13 from user-guide.pdf)
-    ![Configurations 2](screenshots/Image 14 from user-guide.pdf)
+(voir screenshots)
 
 * **Exercices et sessions** : Permet de créer et de gérer les exercices financiers et les sessions associées, ainsi que d'effectuer les opérations liées aux cotisations, épargnes, emprunts et remboursements.
 
-    ![Exercices et sessions 1](screenshots/Image 15 from user-guide.pdf)
-    ![Exercices et sessions 2](screenshots/Image 17 from user-guide.pdf)
-    ![Exercices et sessions 3](screenshots/Image 18 from user-guide.pdf)
+  (voir screenshots)
 
 ## Technologies utilisées
 
