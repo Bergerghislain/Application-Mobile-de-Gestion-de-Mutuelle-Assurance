@@ -35,7 +35,7 @@ Cette application mobile facilite la gestion d'une mutuelle ou d'une assurance e
 
 * **Gestion des administrateurs** : Similaire à la gestion des membres, mais spécifique aux administrateurs de la plateforme.
 
-    ![Gestion des administrateurs 1](screenshots/Image 8 from user-guide.pdf)
+    ![Gestion des administrateurs 1](Screenshots/Capture d’écran du 2024-09-26 06-25-30.png)
     ![Gestion des administrateurs 2](screenshots/Image 9 from user-guide.pdf)
 
 * **Gestion des types d'aides** : Permet de visualiser, ajouter, modifier et supprimer les différents types d'aides financières proposées par la mutuelle.
