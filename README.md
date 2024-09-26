@@ -21,7 +21,7 @@ Cette application mobile facilite la gestion d'une mutuelle ou d'une assurance e
 
 * **Écran d'accueil** : Affiche un aperçu des fonctionnalités principales, y compris la trésorerie, le fonds social et les événements de la mutuelle.
 
-    ![Écran d'accueil](screenshots/Image 3 from user-guide.pdf)
+    ![Écran d'accueil](Screenshots/Capture d’écran du 2024-09-26 06-22-58.png)
 
 * **Menu principal** : Donne accès aux différentes sections de l'application, telles que les membres, les administrateurs, les types d'aides, etc.
 
